@@ -1,1 +1,2 @@
 hi step2
+hello from step 3" | Out-File step3.txt -Encoding utf8
